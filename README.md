@@ -997,38 +997,36 @@ This document therefore provides a formal open definition of Deep-Sea Aeration.
 
 ## Japanese Articles
 
-```text
-深海エアレーションとは何か：Ocean Breathing SystemとOTUによる海洋代謝再起動技術
+深海エアレーションとは何か：Ocean Breathing SystemとOTUによる海洋代謝再起動技術  
 https://note.com/inchacomusho/n/n3d91983e0ad4
 
-唯一の温暖化対策：地球直接冷却
+唯一の温暖化対策：地球直接冷却  
 https://note.com/inchacomusho/n/n32f7295434aa
 
-唯一の温暖化対策・地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法
+唯一の温暖化対策・地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
 https://note.com/inchacomusho/n/n5ab9564c6617
 
-地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）
+地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
 https://note.com/inchacomusho/n/nfe290c6fca60
 
-海洋調律ユニット（OTU）物理実装プロトコル
+海洋調律ユニット（OTU）物理実装プロトコル  
 https://note.com/inchacomusho/n/n067025e36085
 
-Technical Specification: Ocean Tuning Unit（OTU）
+Technical Specification: Ocean Tuning Unit（OTU）  
 https://note.com/inchacomusho/n/naa35a8485b35
-```
+
 
 ## GitHub Documents
 
-```text
-Deep-Sea Aeration: Ocean Metabolism Restart Technology Using the Ocean Breathing System and Ocean Tuning Unit
+Deep-Sea Aeration: Ocean Metabolism Restart Technology Using the Ocean Breathing System and Ocean Tuning Unit  
 https://github.com/InchaComisho/Deep-Sea-Aeration
 
-Technical Specification: Ocean Tuning Unit (OTU)
+Technical Specification: Ocean Tuning Unit (OTU)  
 https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
 
-Physical Model of Ocean Tuning Unit (OTU)
+Physical Model of Ocean Tuning Unit (OTU)  
 https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
-```
+
 
 ## 29. Conclusion
 
