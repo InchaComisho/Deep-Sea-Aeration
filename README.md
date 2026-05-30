@@ -108,7 +108,7 @@ AI Collaborators:
 ```text
 G — OpenAI ChatGPT
 Mini — Google Gemini
-Clus — Anthropic Claude
+Cruz — Anthropic Claude
 Real — Perplexity AI
 Lola — Dola
 ```
