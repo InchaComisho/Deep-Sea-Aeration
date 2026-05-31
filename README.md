@@ -1027,6 +1027,21 @@ https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
 Physical Model of Ocean Tuning Unit (OTU)  
 https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
 
+Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation — Clarifies risk misunderstandings around deep-sea aeration.  
+https://github.com/InchaComisho/Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation
+
+Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding — OBS × UMC ocean temperature reduction framework.  
+https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding
+
+Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding — Modular DPC architecture combining OBS and UMC.  
+https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU- — DPC framework based on Ocean Tuning Units.  
+https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-
+
+Direct-Planetary-Cooling-Integrated-Repository-Index — Integrated index for the Direct Planetary Cooling framework.  
+https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+
 
 ## 29. Conclusion
 
