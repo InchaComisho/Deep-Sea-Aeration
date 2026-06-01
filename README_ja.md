@@ -276,6 +276,14 @@ AI Collaborators:
 
 利用、複製、改変、翻訳、再配布、公開、実装、商用化、科学的発展を歓迎します。特定企業、政府、組織、個人による独占や特許囲い込みは、本公開の意図に反します。
 
+## 関連リポジトリ
+
+- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — 自然循環を回復するための自然補完科学の中核定義。
+- [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — 共生科学とバイオシンセシスを自然循環回復として整理する関連フレームワーク。
+- [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — 自然法則・調和・循環・構造・秩序・和による文明OS。
+- [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — 自然補完科学と新文明創成計画の統合索引。
+- [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — 人工叡智と和ノードの統合索引。
+
 ## キーワード
 
 Deep-Sea Aeration, 深海エアレーション, Ocean Breathing System, Ocean Tuning Unit, OBS, OTU, Marine Carbon Fixation, Ocean Metabolism, Nanobubbles, Vertical Circulation, Phytoplankton Activation, Natural Complementary Science, Direct Planetary Cooling

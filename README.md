@@ -1094,6 +1094,14 @@ Deep-Sea Aeration: Ocean Breathing System and Ocean Tuning Unit for Marine Carbo
 
 Deep-Sea Aeration is a proposed ocean regeneration technology that injects air into deep or mid-depth seawater as fine bubbles or nanobubbles to support oxygen supply, vertical circulation, nutrient uplift, phytoplankton activation, marine carbon fixation, and ocean metabolism restoration.
 
+## Related Repositories
+
+- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
+- [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
+- [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
+- [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — Integrated index for Natural Complementary Science and the New Civilizational Genesis Plan.
+- [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — Integrated index for Artificial Wisdom and Wa-Node.
+
 ## Keywords
 
 ```text
