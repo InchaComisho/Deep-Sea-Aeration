@@ -276,6 +276,17 @@ AI Collaborators:
 
 利用、複製、改変、翻訳、再配布、公開、実装、商用化、科学的発展を歓迎します。特定企業、政府、組織、個人による独占や特許囲い込みは、本公開の意図に反します。
 
+
+---
+
+## マスター知識体系ポータル
+
+全体のリポジトリ地図と知識体系ナビゲーションはこちら：
+
+- [マスター知識体系ポータル](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
+---
+
 ## 関連リポジトリ
 
 - [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — 自然循環を回復するための自然補完科学の中核定義。

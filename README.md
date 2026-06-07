@@ -1094,6 +1094,17 @@ Deep-Sea Aeration: Ocean Breathing System and Ocean Tuning Unit for Marine Carbo
 
 Deep-Sea Aeration is a proposed ocean regeneration technology that injects air into deep or mid-depth seawater as fine bubbles or nanobubbles to support oxygen supply, vertical circulation, nutrient uplift, phytoplankton activation, marine carbon fixation, and ocean metabolism restoration.
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
+---
+
 ## Related Repositories
 
 - [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
