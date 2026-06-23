@@ -304,3 +304,11 @@ Deep-Sea Aeration, 深海エアレーション, Ocean Breathing System, Ocean Tu
 #DeepSeaAeration #深海エアレーション #OceanBreathingSystem #OBS #OceanTuningUnit #OTU  
 #Nanobubbles #OceanMetabolism #MarineCarbonFixation #VerticalCirculation  
 #NaturalComplementaryScience #DirectPlanetaryCooling #海洋再生 #自然補完科学
+
+---
+
+## 関連するクーリングクレジット事業モデル
+
+Cooling Credit Framework の事業モデル群のうち、このリポジトリと実装・制度設計上の接点が強い文書への逆リンクです。
+
+- [EEZ漁場回復クーリングクレジットモデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL_ja.md)
