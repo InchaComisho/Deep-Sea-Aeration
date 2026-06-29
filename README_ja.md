@@ -323,3 +323,8 @@ CC BY 4.0
 
 本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
 著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。
+## 関連するクーリングクレジット事業モデル
+
+Cooling Credit Framework の事業モデル群のうち、このリポジトリと実装・制度設計上の接点が強い文書への逆リンクです。
+
+- [EEZ漁場回復クーリングクレジットモデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL_ja.md)
