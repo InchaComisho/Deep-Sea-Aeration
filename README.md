@@ -1,4 +1,7 @@
 # Deep-Sea Aeration: Ocean Metabolism Restart Technology Using the Ocean Breathing System and Ocean Tuning Unit
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## An Open Framework for Marine Carbon Fixation Restoration and Climate Stabilization
 
 ## Abstract

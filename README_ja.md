@@ -1,5 +1,7 @@
 # 深海エアレーション：Ocean Breathing System と Ocean Tuning Unit による海洋代謝再起動技術
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 海洋炭素固定の回復と気候安定化のためのオープンフレームワーク
 
 > English version: [README.md](./README.md)
