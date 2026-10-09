@@ -4,7 +4,7 @@
 
 ## 海洋炭素固定の回復と気候安定化のためのオープンフレームワーク
 
-> English version: [README.md](./README.md)
+> English version: [README.md](./README_ja.md)
 
 > 本リポジトリは、Deep-Sea Aeration（深海エアレーション）を、Ocean Breathing System（OBS：海洋呼吸システム）、Ocean Tuning Unit（OTU：海洋調律ユニット）、炭素固定システム回復、自然補完科学の文脈で日本語整理したものです。ここに示す内容は概念的・理論的提案であり、実証済みの気候制御技術ではありません。実装には、海域別の科学的検証、生態系評価、工学的試験、水質・酸素・栄養塩・生物量モニタリング、国際的ガバナンスが必要です。
 
